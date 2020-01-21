@@ -1,9 +1,9 @@
 const resolvers = {
   Query: {
-    viewer(_parent, _args, _context, _info) {
-      return { id: 1, name: 'John Smith', status: 'cached' }
-    },
-  },
-}
+    viewer(_parent: any, _args: any, _context: any, _info: any) {
+      return { id: 1, name: "John Smith", status: "cached" };
+    }
+  }
+};
 
-export default resolvers
+export default resolvers;
