@@ -1,0 +1,82 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/about.tsx": 0,
+      "multi private-next-pages/api/graphql.ts": 1,
+      "multi private-next-pages/index.tsx": 2,
+      "multi private-next-pages/test.tsx": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_error": 5,
+      "multi next/dist/pages/_document": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/_app.js": 2,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/_document.js": 3,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/_error.js": 4,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/about.js": 5,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/api/graphql.js": 6,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/index.js": 7,
+      "static/BBhn6jDu8z6YmtY9-HtqW/pages/test.js": 8,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/_app.js": 9,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/_document.js": 10,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/_error.js": 11,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/about.js": 12,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/api/graphql.js": 13,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/index.js": 14,
+      "static/9QBh3v6oCahX3YLKxOXNc/pages/test.js": 15,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/_app.js": 2,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/_document.js": 3,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/_error.js": 4,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/about.js": 5,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/api/graphql.js": 6,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/index.js": 7,
+      "static/YoWuUuJ4FLBwUx00-Gc1b/pages/test.js": 8,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/_app.js": 9,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/_document.js": 10,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/_error.js": 11,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/about.js": 12,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/api/graphql.js": 13,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/index.js": 14,
+      "static/nvysCK0kbgE_QEnk08PEJ/pages/test.js": 15,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/_app.js": 2,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/_document.js": 3,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/_error.js": 4,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/about.js": 5,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/api/graphql.js": 6,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/index.js": 7,
+      "static/XZTi6mWpB-GTLPQRz1Mwe/pages/test.js": 8,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/_app.js": 9,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/_document.js": 10,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/_error.js": 11,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/about.js": 12,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/api/graphql.js": 13,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/index.js": 14,
+      "static/IBVJVnC8pDWwIB0SsxYtP/pages/test.js": 15
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      9
+    ]
+  }
+}

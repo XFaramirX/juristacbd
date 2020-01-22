@@ -1,24 +1,15 @@
-import withApollo from '../lib/with-apollo'
-import Link from 'next/link'
-import { useViewerQuery } from '../lib/viewer.graphql'
+import Link from "next/link";
 
 const Index = () => {
-  const { data } = useViewerQuery()
+  return (
+    <div>
+      You're signed in as David and you're Ready goto{" "}
+      <Link href="/about">
+        <a>static</a>
+      </Link>{" "}
+      page.
+    </div>
+  );
+};
 
-  if (data) {
-    const { viewer } = data
-    return (
-      <div>
-        You're signed in as {viewer.name} and you're {viewer.status} goto{' '}
-        <Link href="/about">
-          <a>static</a>
-        </Link>{' '}
-        page.
-      </div>
-    )
-  }
-
-  return <div>...</div>
-}
-
-export default withApollo(Index)
+export default Index;
